@@ -1,0 +1,2 @@
+- !ruby/regexp '/^((The)\s{1}\d+\s{1})|^(\d+\s{1})|(\d+\s{1}((Things)|(Ways)|(Most)))/'
+- !ruby/regexp '/(This)\s{1}/'
